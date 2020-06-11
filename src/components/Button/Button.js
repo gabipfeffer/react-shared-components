@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./Button.pcss";
+import "./Button.scss";
 
 function Button({ message = "First Button" }) {
   return (
