@@ -4,7 +4,7 @@ import "./Button.scss";
 
 function Button({ message = "First Button" }) {
   return (
-    <button className="button">
+    <button className="button" >
       <span>{message}</span>
     </button>
   );
