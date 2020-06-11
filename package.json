@@ -1,6 +1,6 @@
 {
   "name": "react-shared-components",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shared Component Library with React, Webpack, and Storybook",
   "main": "index.js",
   "scripts": {
