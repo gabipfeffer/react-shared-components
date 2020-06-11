@@ -19,11 +19,6 @@ module.exports = {
         exclude: /node_modules/,
         use: ["babel-loader"],
       },
-      {
-        test: /\.pcss$/i,
-        use: ["style-loader", "css-loader", "sass-loader"],
-        include: path.resolve(__dirname, "./src"),
-      },
     ],
   },
 };
