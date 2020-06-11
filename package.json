@@ -1,6 +1,6 @@
 {
   "name": "gabipfeffer-react-shared-components",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Shared Component Library with React, Webpack, and Storybook",
   "main": "index.js",
   "scripts": {
